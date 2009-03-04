@@ -25,6 +25,7 @@ Generates a PDF report of a set of Cucumber features.
  * Trollop
  * Cucumber
  * Prawn
+ * Prawn Layout
  * Grit (optional, needed for git only features)
  * RSpec (optional, needed to run specs)
 

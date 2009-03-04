@@ -8,6 +8,7 @@ end
 
 require 'rubygems'
 require 'prawn'
+require 'prawn/layout'
 require 'trollop'
 
 begin
